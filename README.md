@@ -1,0 +1,2 @@
+# millionaire
+ruby sample project
